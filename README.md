@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hakim Benkacem</h1>
-<h3 align="center">A passionate frontend developer based in Dubai!</h3>
+<h3 align="center">A passionate developer based in Dubai!</h3>
 
 - 🔭 I’m currently working on [PokeLearn](https://www.pokelearn.online/)
 
